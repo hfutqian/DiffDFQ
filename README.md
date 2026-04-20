@@ -1,3 +1,6 @@
+# Progressive Diffusion-Guided Noise Perturbation for Data-Free Quantization
+This repository is the official code for the paper "Progressive Diffusion-Guided Noise Perturbation for Data-Free Quantization" by Biao Qian, Yang Wang, Zeqian Yi, Haipeng Liu, Jungong Han and Meng Wang.
+
 
 ### Dependencies
 
