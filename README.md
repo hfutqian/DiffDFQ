@@ -12,7 +12,7 @@ PyTorch 1.12.1
 
 For example, we can set the "dataPath" in "cifar100_resnet20.hocon" as the path root of your CIFAR100 dataset:
 
-        dataPath = "./dataset/CIFAR100/"
+dataPath = "./dataset/CIFAR100/"
 
 
 ## Training
