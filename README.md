@@ -26,7 +26,11 @@ For example, to quantize the pre-trained ResNet-20 on CIFAR100 to 4 bits, we can
 
 The performance of our models is measured by Top-1 classification accuracy (%), which is reported below:
 
-![]()
+![table2](https://github.com/hfutqian/DiffDFQ/blob/main/Figures/table2.png)
+
+The visual results are shown below:
+
+![fig14](https://github.com/hfutqian/DiffDFQ/blob/main/Figures/fig14.png)
 
 
 
